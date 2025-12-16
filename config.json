@@ -1,0 +1,11 @@
+{
+  "download_path": "./downloads",
+  "cookies_path": "./cookies.txt",
+  "download_music_videos": false,
+  "save_cover": true,
+  "save_lyrics": false,
+  "embed_cover": true,
+  "embed_lyrics": false,
+  "template_folder_album": "{artist}/{album} [AAC 256kbps]",
+  "template_filename_song": "{artist} - {title}"
+}

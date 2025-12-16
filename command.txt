@@ -1,0 +1,3 @@
+gamdl --cookies-path cookies.txt "URL"
+
+gamdl --cookies-path cookies.txt ""
